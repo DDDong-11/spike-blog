@@ -1,0 +1,9 @@
+title = "Spike"
+
+[params.author]
+name = "Spike"
+headline = "技术为主的个人笔记"
+bio = ""
+links = [
+  { github = "https://github.com/DDDong-11" },
+]

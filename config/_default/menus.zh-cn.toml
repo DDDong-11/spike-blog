@@ -1,0 +1,10 @@
+[[main]]
+  name = "首页"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/DDDong-11"
+  weight = 20
